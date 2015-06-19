@@ -1,2 +1,0 @@
-# ksana.github.io
-Blog
